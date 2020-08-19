@@ -1,0 +1,6 @@
+discord.py[voice]
+PyNaCL==1.3.0
+nltk
+tflearn
+numpy
+tensorflow==1.15

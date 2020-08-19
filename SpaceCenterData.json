@@ -1,0 +1,113 @@
+{"categories": [
+        {"key": "greeting",
+         "questions": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Hey"],
+         "responses": ["Hi there, how can I help you?"],
+         "context_set": ""
+        },
+        {"key": "goodbye",
+         "questions": ["Bye", "See you later","Thank you for your help", "Goodbye", "I am Leaving", "Have a Good day"],
+         "responses": ["Bye for now, Have a great rest of your day!"],
+         "context_set": ""
+        },
+        {"key": "ticket",
+         "questions": ["where can i purchase tickets?", "how can we purchase tickets?", "how can I purchase tickets?", "how to purchase tickets?", "how to buy tickets?", "How can I purchase tickets", "How to buy tickets"],
+         "responses": ["Tickets can be purchased by visiting https://tickets.spacecenter.org/WebStore/LandingPage?CG=admissioncg&C=admissionc&_ga=2.194721965.165363897.1592258098-116615951.1592258098"],
+         "context_set": ""
+        },
+        {"key": "refund policy",
+         "questions": ["What is your refund policy", "Can I have a refund?", "How to get a refund", "get a refund", "Cancellation policy", "Can I cancel my tickets", "Can I have my tickets refunded", "How will tickets be refunded", "how can I go about getting a refund"],
+         "responses": ["Space Center Houston admission tickets are valid for one year from the date of purchase, if you wish to visit at a later date. We will work with you to postpone scheduled bookings and are offering complimentary refunds to ticket holders who are not able or choose not to visit."],
+         "context_set": ""
+        },
+        {"key": "reopening",
+         "questions": ["Pandemic","When will you open", "When will space center open", "Are you open", "When reopening", "Covid-19", "Covid", "Virus", "Information about reopening"],
+         "responses": ["Explore the wonders of space exploration when Space Center Houston, the Official Visitor Center of NASA Johnson Space Center, reopens with exclusive member-only Welcome Back Days June 28-30 and to the public beginning July 1."],
+         "context_set": ""
+        },
+        {"key": "already have tickets",
+         "questions": ["I already purchased my tickets, how can I use them?","Already bought tickets", "I previously purchased tickets, are they valid?", "Previously purchased tickets", "Already have tickets", "Bought my tickets already"],
+         "responses": ["Guests who have non-dated Space Center Houston admission tickets will need to contact Space Center Houston’s Reservations Department to select a specific date and time for their visit prior to arriving at the Center. These guests can reserve their tickets ahead of time by sending their name, email address, phone number, and order confirmation number to our Reservations Department at reservations@spacecenter.org. Someone from the Reservations Department will then contact you to help you reserve your specific date and time. "],
+         "context_set": ""
+        },
+        {"key": "what to bring",
+         "questions": ["What is your bag policy", "Can I bring a backpack", "backpack", "Type of bag", "Items allowed", "Items allowed to bring", "what to bring"],              
+         "responses": ["The following items are allowed onto the Space Center Houston premise. Please be prepared to have your belongings searched by Space Center Houston security:\nBring water bottles or plan to purchase beverages. Vending machines with sodas and water will be available. To help slow the spread of COVID-19, all water fountains will be turned off. \nFace covering for everyone ages two and older. Masks will be available for purchase at the center. \nSmall umbrellas \nClear, NFL-approved bags are permitted"],
+         "context_set": ""
+        },
+        {"key": "photo policy",
+         "questions": ["Can I take pictures", "What is your photo policy", "Photos", "Can take photos", "Are we allowed to take pictures"],              
+         "responses": ["Guests are welcome to bring small flash photography cameras. Large camera equipment such as telescoping poles (tripods, monopods, gimbals and selfie-sticks), lenses exceeding 6”, external lighting, aerial drones, and audio equipment are not allowed at Space Center Houston. Crew members will point out photo restrictions on the NASA tours."],
+         "context_set": ""
+        },
+        {"key": "up and running",
+         "questions": ["exhibits available", "fully open", "what will be open", "will everything be open"],
+         "responses": ["We will safely welcome back guests with new exhibits, spacious outdoor experiences and additional health and safety measures at the forefront of our daily operations. All our permanent exhibits will be open, and we anticipate offering the NASA Tram Tour. The NASA Tram Tour takes guests to the Space Vehicle Mockup Facility, where astronauts train for current missions, and Rocket Park, where an actual Apollo-era Saturn V rocket is on display. In addition to a timed admission ticket, guests will reserve a free virtual boarding pass in order to experience the NASA Tram Tour."],
+         "context_set": ""
+        },
+        {"key": "safety",
+         "questions": ["Is it safe to visit", "health safety", "cleaning","what are you doing for safety", "how often is cleaned", "am i safe", "are we safe", "is it safe"],
+         "responses": ["Space Center Houston is committed to the health and safety of our guests, volunteers and local community; and we have taken extraordinary steps to see that we keep our facility clean and safe for all. Please visit https://spacecenter.org/reopening/ for more information."],
+         "context_set": ""
+        },
+        {"key": "member reservations",
+         "questions": ["How can members make reservations", "member visit", "member timed ticket", "member reservation", "Previous member, how can I make reservations"],
+         "responses": ["Members will be able to reserve a day and time through our online portal. Once at the center, members should present their membership card and their timed admission ticket. There will be a dedicated member lane at the entrance to Space Center Houston."],
+         "context_set": ""
+        },
+        {"key": "education programs",
+         "questions": ["When will education programs begin", "education programs", "virtual learning experiences"],
+         "responses": ["Throughout our temporary closure, our staff has been providing new virtual learning experiences and education programs. Until we reopen on July 1, we hope you will join us virtually. To learn more about our digital learning experiences, visit www.spacecenter.org/resources."],
+         "context_set": ""
+        },
+        {"key": "level 9",
+         "questions": ["When can I book a level 9 tour", "level 9 tour", "level 9"],
+         "responses": ["During our Level 9 Tour, guests get unprecedented behind-the-scenes access to multiple locations at NASA Johnson Space Center (JSC), which is a working government facility. At this time, we are still determining how much access we will have to JSC when Space Center Houston reopens. We will not begin offering the Level 9 Tour until we know that we have enough access to make it a premium experience."],
+         "context_set": ""
+        },
+        {"key": "lunch with astronaut",
+         "questions": ["Is the lunch with an astronaut program available?","When can I book lunch with an astronaut tickets", "lunch with astronauts"],
+         "responses": ["We will begin offering Lunch with an Astronaut again later this year. Until then, guests can attend our Astronaut Presentations every Friday and Saturday as well as Virtual Astronaut Visits."],
+         "context_set": ""
+        },
+        {"key": "group visit",
+         "questions": ["How can I make a group reservation?","How can I buy group tickets", "When Can I book a group visit", "group visit", "large party", "group of people", "Coming with a group of people"],
+         "responses": ["We are able to book group visits now. Please contact our Reservations Department to book a group visit at reservations@spacecenter.org or +1 281-283-4755."],
+         "context_set": ""
+        },
+        {"key": "employee covid",
+         "questions": ["Have any people had the coronavirus at your facility or in the Houston area", "Houston covid", "Houston Covid-19", "employees with covid"],
+         "responses": ["There have been no cases of exposure to the novel coronavirus (COVID-19) reported in connection with the center. As Houston’s leading science and space exploration learning center and a trusted community space, we are acting in an abundance of caution with the health and safety of our guests, staff and volunteers as our top priority and responsibility. To learn the latest information about any public health threats, please refer to the Center for Disease Control and Prevention website at www.cdc.gov."],
+         "context_set": ""
+        },
+        {"key": "face mask required",
+         "questions": ["Are face masks required", "Do I need to wear a facemask"],
+         "responses": ["To help slow the spread of COVID-19, face coverings are required for Space Center Houston guests ages two and older, as well as crew members."],
+         "context_set": ""
+        },
+        {"key": "contact phone number",
+         "questions": ["Do you have a contact phone number", "Phone number", "Customer service phone number"],
+         "responses": ["Space Center Houston Customer Service Phone Number: (281) 244-2100"],
+         "context_set": ""       
+        },
+        {"key": "hours",
+         "questions": ["what are your hours?", "open today", "Are you open today", "Are you guys open today", "What are hours of operation", "hours", "hours of operation", "hours open", "time you open", "What time are you open today"],
+         "responses": ["Please visit https://spacecenter.org/hours/ for the most up-to-date information on hours of operation."],
+         "context_set": ""       
+        },
+        {"key": "testing",
+         "questions": ["testing, testing", "testing testing", "testing"],
+         "responses": ["One two, one two"],
+         "context_set": ""       
+        },
+        {"key": "ticket price",
+         "questions": ["What are the ticket prices","How much do tickets cost", "Ticket price", "Are children free", "Is there a senior discount", "Senior discount", "Children free", "Toddler ticket", "Toddler free", "What age are children free", "Are children free"],
+         "responses": ["Ticket Pricing:\nChild (ages 3 & younger)    Free\nKid (ages 4-11)             $24.95\nAdult (ages 12 & older)    $29.95\nSenior (ages 65 & older)     $27.95"],
+         "context_set": ""       
+        },
+        {"key": "what not to bring",
+         "questions": ["disallowed items", "Prohibited items", "What not to bring", "Alcohol", "Pets", "Luggage", "Store luggage", "What items are prohibited", "items prohibited"],
+         "responses": ["Guests will be encouraged to take prohibited items back to their cars. Items left at the gates are not the responsibility of Space Center Houston. No personal food is allowed in the center. Luggage is not allowed inside the center, and we are not able to store luggage. Stroller rental is not available. Weapons of any kind. Alcohol. Laser pointers. Large umbrellas (compact only). Hover boards and other personal recreational devices. Pets (with exception of service animals). Aerosol cans (hairspray, bug spray, sunscreen). Glass of any kind, including perfume bottles. Signs of any kind or size. Large camera equipment such as telescoping poles (tripods, monopods, gimbals and selfie-sticks), lenses exceeding 6”, external lighting and audio equipment"],
+         "context_set": ""
+        }
+   ]
+}
